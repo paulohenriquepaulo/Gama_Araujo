@@ -16,6 +16,7 @@ public class Atividade05 {
 
 		System.out.println("O antecessor de " + numero + " é " + antecessor +
 				"\nO sucessor de " + numero + " é " + sucessor);
+		entrada.close();
 	}
 
 }
