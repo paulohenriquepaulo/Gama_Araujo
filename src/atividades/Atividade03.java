@@ -3,7 +3,7 @@ package atividades;
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class Atividadde03 {
+public class Atividade03 {
 	public static void main(String[] args) {
 
 		Scanner entrada = new Scanner(System.in);
