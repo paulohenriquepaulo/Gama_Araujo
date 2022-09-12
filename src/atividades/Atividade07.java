@@ -8,10 +8,10 @@ public class Atividade07 {
 		Scanner entrada = new Scanner(System.in);
 		int soma = 0;
 		
-		System.out.println("Informe o primeiro número: ");
+		System.out.print("Informe o primeiro número: ");
 		int numero1 = entrada.nextInt();
 		
-		System.out.println("Informe o primeiro número: ");
+		System.out.print("Informe o primeiro número: ");
 		int numero2 = entrada.nextInt();
 		
 		for (int i = 0; i < numero2; i++) {
