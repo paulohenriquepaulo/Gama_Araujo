@@ -47,7 +47,7 @@ public class Atividade302 {
 	}
 
 	public static void validarValores(int valor) {
-		if (valor < 0) {
+		if (valor <= 0) {
 			throw new RuntimeException("O valor precisa ser igual o maior que zero.");
 		}
 	}

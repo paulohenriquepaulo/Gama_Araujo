@@ -27,13 +27,13 @@ public class Atividade305 {
 				}
 
 				System.out.print("Digite zero para finalizar ou qualquer outro número para continuar: ");
-				opcao = entrada.nextInt();
 			} catch (InputMismatchException e) {
 				System.out.println("Opção invalida.");
 				entrada.nextLine();
 			}
 
 		} while (opcao != 0);
+		opcao = entrada.nextInt();
 
 	}
 
