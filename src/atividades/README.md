@@ -38,3 +38,28 @@
 
 :pushpin: 9 - Crie uma classe para representar uma pessoa, com os atributos privados de nome, data de nascimento e altura. Crie os métodos públicos necessários para sets e gets e também um método para imprimir todos dados de uma pessoa. Crie um método para calcular a idade da pessoa.
 
+## :bulb: Semana 4
+
+:pushpin: 1 - Crie uma classe Televisão e uma classe Controle Remoto que pode controlar o volume e trocar os canais da televisão. 
+
+O controle de volume permite: 
+∙ aumentar ou diminuir a potência do volume de som em uma unidade de cada vez; 
+∙ aumentar e diminuir o número do canal em uma unidade 
+∙ trocar para um canal indicado; 
+∙ consultar o valor do volume de som e o canal selecionado.
+
+:pushpin: 2 - Fazer uma classe Ex2Sorteio para: 
+• Sortear um número de 0 a 1000 (dica: usar Math.random()) 
+• Pedir um palpite ao usuário. Se ele errar, informar se o palpite é maior ou menor do que o número sorteado. 
+• Pedir novos palpites até que o usuário acerte e, depois disso, mostrar em quantas tentativas ele acertou.
+
+:pushpin: 3 - Faça um programa em Java que peça ao usuário para digitar o seu nome e o sistema irá informar quantos caracteres possui o texto informado pelo usuário. (Utilize o método length()).
+
+:pushpin: 4 - Uma imobiliária vende apenas terrenos retangulares. Faça um programa em java para ler as dimensões de um terreno e depois exibir a área do terreno. (lado x altura)
+
+:pushpin: 5 - Faça um programa em java para calcular quantas ferraduras são necessárias para equipar todos os cavalos comprados para um haras. A informação de cavalos comprados deve ser informada pelo usuário.
+
+
+:pushpin: 6 - Crie um programa, escrito na linguagem Java, que indique o nome da função exercida por um
+funcionário, cujo código é informado pelo usuário (10 - Técnico, 15 - Analista, 20- Supervisor, 25 -Gerente. Caso o código da função seja válido (maior que 0), mas não esteja entre estes, deverá ser informado ao usuário? Código não corresponde a uma função válida? 
+
