@@ -16,9 +16,7 @@ import javax.swing.border.EmptyBorder;
 
 public class Inicio extends JFrame {
 
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
 	private JButton btnCadastrar;
@@ -84,8 +82,8 @@ public class Inicio extends JFrame {
 		btnFuncionarios.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				TabelaFuncionarios funcionairos = new TabelaFuncionarios();
-				TabelaFuncionarios.listar();
 				funcionairos.setVisible(true);
+				TabelaFuncionarios.listar();
 			}
 		});
 		btnFuncionarios.setBackground(new Color(255, 204, 153));
